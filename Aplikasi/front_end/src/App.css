@@ -1,0 +1,31 @@
+.list .action {
+  cursor: pointer;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+#home{
+  border-radius: 15px;
+  height: 250px;
+
+}
+
+#loan {
+  margin-right: 875px;
+}
+
+#futer{
+  margin-top:350px;
+}
+
+
+
+
